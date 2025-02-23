@@ -24,6 +24,7 @@ Run this Matlab code to reproduce the result on SD2 Dataset in ["Superpixel-Base
 ## Implementation Details
 
 The main program of the code is SD2main_test, and the unixing algorithm is RSU_g.
+For vlfeat-0.9.20.zip, please unzip it and place it in the SGLRWRSU path.
 
 ## Contact
 
